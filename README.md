@@ -1,4 +1,4 @@
-# README.mb
+# README.md
 
 
 ### 🌱 Hi I’m HazelPetate ...
